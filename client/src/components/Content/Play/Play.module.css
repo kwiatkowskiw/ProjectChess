@@ -1,0 +1,12 @@
+.content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+.tableList{
+    max-width: 680px;
+    max-height: 680px;
+    overflow: auto;
+}
