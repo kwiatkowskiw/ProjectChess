@@ -6,4 +6,4 @@
 
 #### Uruchomienie
 
-##### Kiedy nasze pakiety zostaną zainstalowane, możemy przejść do uruchomienia serwera komendą „npm start”. Serwer zostaje uruchomiony domyślnie na porcie 5000, oraz dostajemy informację, czy została włączona domyślnie ustawiona baza danych. Wątek dotyczący zmiany tych dwóch parametrów został poruszony w podrozdziale 4.1. Aby otworzyć aplikację wpisujemy w przeglądarce internetowej następujący adres: http://localhost:5000/.
+####### Kiedy nasze pakiety zostaną zainstalowane, możemy przejść do uruchomienia serwera komendą „npm start”. Serwer zostaje uruchomiony domyślnie na porcie 5000, oraz dostajemy informację, czy została włączona domyślnie ustawiona baza danych. Wątek dotyczący zmiany tych dwóch parametrów został poruszony w podrozdziale 4.1. Aby otworzyć aplikację wpisujemy w przeglądarce internetowej następujący adres: http://localhost:5000/.
