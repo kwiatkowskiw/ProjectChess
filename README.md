@@ -21,7 +21,7 @@ Następnie należy otworzyć ten plik i wypełnić pola następującymi danymi
 
 ```
 PORT=8080 (opcjonalne)
-DATABASE_URL=mongodb+srv://kwiatkowskiw:1234567890@cluster0.alego.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+DATABASE_URL= (nazwa bazy danych)
 ```
 
 #### Uruchomienie
